@@ -1,22 +1,20 @@
 # Patel_Hit_AJAX-app
 
 ## About
-This section should contain a brief description of your AJAX application, including its purpose and key features.
+This AJAX application is designed to showcase dynamic web page content updating using AJAX techniques. The main features include fetching API using Links given by Professor. 
 
 ## Installation
-Provide detailed instructions on how to install and run your application. This should include:
+To install and run the application:
 
-- clone 
-- Commands to install dependencies
+## Clone the repository:
+- git clone https://github.com/h1tPatel/Patel_Hit_AJAX-app.git
+
+## Change directory to the cloned repository:
+- cd Patel_Hit_AJAX-app
 
 ## Usage
-Explain how to use the application with examples or screenshots.
-
-## Contributing
-Guidelines for contributing to the project.
-
-## License
-Include the license information here.
+To use the application, simply open `Index.html` in a web browser. The application [describe how the application works briefly, including any important steps or things to note while using it].
 
 ## Contact
-For any queries or contributions, please contact [Your Contact Information].
+For any queries or suggestions, please feel free to contact me at h_patel161481@fanshaweonline.ca.
+
