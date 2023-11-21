@@ -6,8 +6,7 @@ This section should contain a brief description of your AJAX application, includ
 ## Installation
 Provide detailed instructions on how to install and run your application. This should include:
 
-- Required software or tools (like Node.js, npm, etc.)
-- Steps to clone the repository
+- clone 
 - Commands to install dependencies
 
 ## Usage
