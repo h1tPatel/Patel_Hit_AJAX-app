@@ -13,7 +13,7 @@ To install and run the application:
 - cd Patel_Hit_AJAX-app
 
 ## Usage
-To use the application, simply open `Index.html` in a web browser. The application [describe how the application works briefly, including any important steps or things to note while using it].
+To use the application, simply open `Index.html` in a web browser. The application showcase the use of Fetch API function.
 
 ## Contact
 For any queries or suggestions, please feel free to contact me at h_patel161481@fanshaweonline.ca.
